@@ -1,0 +1,9 @@
+Machine learning is a subset of artificial intelligence.
+
+Deep learning is based on neural networks.
+
+Python is one of the most popular programming languages.
+
+FastAPI is a modern Python framework.
+
+ChromaDB is a vector database.
